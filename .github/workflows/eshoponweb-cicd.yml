@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-westeurope
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: vincihsui
+  SUBSCRIPTION-ID: Azure subscription 1
   WEBAPP-NAME: eshoponweb-webapp-300766891
 
 
